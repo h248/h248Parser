@@ -3,7 +3,7 @@ NOTICE: This is **NOT** an open-source project. It's a simple tutorial explainin
 
 I've been looking around the internet for a binary H.248 parser for a while but failed to find one.
 So I tried the best next thing which is generate a parser based on the ASN.1 specification for the protocol.
-To do so I used OSS Nokalva's "ASN.1/C# Compile". Note that this is a comercial software but offers a 30-days trial.
+To do so I used OSS Nokalva's "ASN.1/C# Compiler". Note that this is a comercial software but offers a 30-days trial.
 
 ##Create your own H.248 parser
 1. Grab the relevant .asn files from this repository ( In my case it was the H248v3.asn)
